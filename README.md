@@ -1,6 +1,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/BiaMara/robotica)
 ![GitHub](https://img.shields.io/github/license/BiaMara/robotica)
 ![Twitter Follow](https://img.shields.io/twitter/follow/bianca?label=Seguir&style=social)
+![GitHub language count](https://img.shields.io/github/languages/count/BiaMara/robotica)
+![GitHub top language](https://img.shields.io/github/languages/top/BiaMara/robotica)
 # robotica
 ## Projeto do site robótica
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
